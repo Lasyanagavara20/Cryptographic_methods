@@ -19,13 +19,13 @@ This Python script demonstrates a **hybrid cryptography system** that combines *
 ## 📁 Project Structure
 
 Cryptographic_methods/
-├── images/
-│   └── output.png
+├── image/
+│   └── Output.png
 ├── cryptography.py
 └── README.md
 
 ##Output
 ## 🖼️ Sample Output
 
-![Sample Output](images/Output.png)
+![Output](image/Output.png)
 
