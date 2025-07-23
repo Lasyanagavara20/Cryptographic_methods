@@ -21,5 +21,11 @@ This Python script demonstrates a **hybrid cryptography system** that combines *
 Cryptographic_methods/
 ├── images/
 │   └── output.png
-├── secure_comm.py
+├── cryptography.py
 └── README.md
+
+##Output
+## 🖼️ Sample Output
+
+![Sample Output](images/Output.png)
+
